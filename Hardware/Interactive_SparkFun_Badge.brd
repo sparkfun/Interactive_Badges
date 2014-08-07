@@ -56,7 +56,7 @@
 <layer number="46" name="Milling" color="3" fill="1" visible="no" active="yes"/>
 <layer number="47" name="Measures" color="7" fill="1" visible="no" active="yes"/>
 <layer number="48" name="Document" color="7" fill="1" visible="no" active="yes"/>
-<layer number="49" name="Reference" color="7" fill="1" visible="yes" active="yes"/>
+<layer number="49" name="Reference" color="7" fill="1" visible="no" active="yes"/>
 <layer number="50" name="dxf" color="7" fill="1" visible="no" active="no"/>
 <layer number="51" name="tDocu" color="6" fill="1" visible="yes" active="yes"/>
 <layer number="52" name="bDocu" color="7" fill="1" visible="no" active="yes"/>
@@ -139,7 +139,7 @@
 </layers>
 <board>
 <plain>
-<text x="86.36" y="0.635" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">v01</text>
+<text x="86.36" y="0.635" size="1.778" layer="16" font="vector" ratio="15" rot="MR0">v10</text>
 <text x="48.26" y="-8.89" size="1.778" layer="51" font="vector" ratio="15">Toni Klopfenstein</text>
 <text x="3.175" y="29.21" size="1.27" layer="21" font="vector" ratio="15" rot="SR270">3.3V FTDI</text>
 <text x="3.175" y="29.845" size="1.27" layer="21" font="vector" ratio="15">GRN</text>
