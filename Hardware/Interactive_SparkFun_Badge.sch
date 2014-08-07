@@ -20832,7 +20832,7 @@ Production Part - 8199
 <sheets>
 <sheet>
 <plain>
-<text x="238.76" y="7.62" size="2.54" layer="94">v01</text>
+<text x="238.76" y="7.62" size="2.54" layer="94">v10</text>
 <text x="166.116" y="11.43" size="2.54" layer="94">Toni Klopfenstein</text>
 <wire x1="0" y1="114.3" x2="58.42" y2="114.3" width="0" layer="94" style="shortdash"/>
 <wire x1="58.42" y1="114.3" x2="106.68" y2="114.3" width="0" layer="94" style="shortdash"/>
